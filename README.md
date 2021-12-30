@@ -5,7 +5,9 @@ Arduino EEPROM has a specified life of 100 000 write cycles ( https://www.arduin
 
 ## Installation
 
-TODO
+- Download release here : https://github.com/kserin/arduino-wear-leveling/releases/download/v0.0.1/wleveling.zip
+- Put zip content on `libraries` folder of Arduino IDE
+- Restart IDE
 
 ## Getting started
 
